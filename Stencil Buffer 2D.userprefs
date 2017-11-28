@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Mask.shader">
+    <Files>
+      <File FileName="..\builtin_shaders-5.5.0f3\DefaultResourcesExtra\Sprites-Default.shader" Line="78" Column="5" />
+      <File FileName="Assets\Mask.shader" Line="104" Column="93" />
+      <File FileName="Assets\Masked.shader" Line="24" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
